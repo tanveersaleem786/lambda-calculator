@@ -1,0 +1,62 @@
+.container {
+    margin: auto;
+    background-color: #c00025;
+    width: 100%;
+    max-width: 550px;
+    border-radius: 15px;
+    border: 2px solid grey;
+    padding-bottom: 25px;
+}
+.display {
+    /* margin-top: 25px; */
+    margin: 17px 26px;
+    height: 100px;
+    width: 450px;
+    border-radius: 50px;
+    color: white;
+    background-color: #322c2d;
+    box-shadow: 1px 1px #322c2d;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding-right: 8%;
+    font-size: 5.0rem;
+  }
+  .logo {
+    margin: 30px 30px 0px 30px;
+  }
+  
+  .button {
+    width: 100px;
+    height: 100px;
+    background-color: #225D9E;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 3.5rem;
+    margin: 0px 25px 15px 0px;
+    border-radius: 50%;
+  }
+  
+  .number-button {
+    background-color: #184379;
+  }
+  .operator-button {
+    background-color: #237293;
+    margin: 0px 0px 15px 0px;
+  }
+  .zero-button
+  {
+    width: 222px;
+    border-radius: 50px;
+  }
+  .App {
+    display: flex;
+    margin: 34px 38px 0px 35px;
+  }
+  .oprator {
+    width: 155px;
+  }
+ 
